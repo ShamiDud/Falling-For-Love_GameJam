@@ -4,8 +4,9 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - LiguidLove
   - Portal
+  - LiquidLove
+  - Obstacle
   layers:
   - Default
   - TransparentFX
